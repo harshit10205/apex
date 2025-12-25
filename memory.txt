@@ -1,0 +1,31 @@
+
+Hello Harshit! It's good to meet you.
+
+```memory.txt
+User's name: Harshit kumar
+```
+Hello Harshit!
+
+Your name is Harshit kumar.
+
+```memory.txt
+User's name: Harshit kumar
+```User: hii
+Apex: Hello Harshit! How can I help you today?
+User: hello my name is mohit
+Apex: Hello Mohit! It's nice to meet you.
+
+```memory.txt
+User's name: Mohit
+```
+User: whats my name
+Apex: Your name is Mohit.
+User: hii
+Apex: Hello Mohit! How can I help you today?
+
+User: his
+Apex: Did you mean "hi," or were you trying to say something else, Mohit?
+
+User: nothing
+Apex: Okay, Mohit. Thanks for clarifying. How can I help you today?
+

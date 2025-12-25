@@ -1,0 +1,8 @@
+You: nothing
+Apex: Okay, Mohit. No problem. How can I help you today?
+You: hii
+Apex: Hello Mohit! How can I help you today?
+You: whats the wheather today
+Apex: I cannot provide real-time weather updates, Mohit, as I am an AI and do not have access to current information. You might want to check a weather app or website for that! How else can I assist you today?
+You: Hii
+Apex: Hello Mohit! How can I help you today?
